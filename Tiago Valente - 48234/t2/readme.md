@@ -3,3 +3,5 @@ Uma possível vulnerabilidade é a exposição da chave de cifra na memória. Se
 Password pré-definida: ola123
 Não existencia de USERS
 UI pouco User Friendly
+
+Unfinished Project
